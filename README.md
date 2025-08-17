@@ -1,1 +1,1 @@
-##Pequenos sistemas desenvolvidos em diferentes arquiteturas de software##
+Pequenos sistemas desenvolvidos em diferentes arquiteturas de software
